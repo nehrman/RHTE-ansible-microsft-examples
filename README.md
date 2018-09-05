@@ -1,0 +1,1 @@
+# RHTE-ansible-microsft-examples
